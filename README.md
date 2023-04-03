@@ -25,11 +25,11 @@ In the analysis, we can use techniques from Data Analysis such as data cleaning,
 </h3>
 <h2>Conclusions</h2>
 <ul>
-  <li>United Kingdom has the highest views as compared to other countries.</li>
+  <li></li>
   
-  <li>Category Comdedy has the highest likes and Category Shorts has the highest dislikes.</li>
+  <li></li>
  
-  <li>Category Family has the highest likes to view ratio making it the most favourable category among the audience.</li>
-  <li>There is a high correlation between likes and views.</li>
-  <li>Videos having tags in the range of 0 to 40 gets the maximum views.</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>  
