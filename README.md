@@ -34,4 +34,5 @@ In the analysis, we can use techniques from Data Analysis such as data cleaning,
   <li>With 89 outlets, Cafe Coffee Day has the highest number of locations among all the coffee shop chains.</li>
   <li>The ratings for most restaurants tend to fall between the range of 3.0 to 4.5.</li>
   <li>Approximately 85.4% of restaurants provide the option to book a table.</li>
+   <li>Onesta has received the highest number of votes among all the restaurants.</li>
 </ul>  
