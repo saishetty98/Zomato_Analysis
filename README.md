@@ -25,11 +25,13 @@ In the analysis, we can use techniques from Data Analysis such as data cleaning,
 </h3>
 <h2>Conclusions</h2>
 <ul>
-  <li></li>
-  
-  <li></li>
- 
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Despite being located in South India, Bengaluru is known for having North Indian cuisine as the most popular choice among its residents.</li>
+  <li>Fried Rice, Ice Cream, Chicken Biryani, and Baby Corn are some of the most commonly found items on menus across different food establishments.</li>
+  <li>Quick Bites is the most popular type of restaurant, followed by Casual Dining.</li>
+  <li>Whitefield has the highest number of restaurants compared to other locations.</li>
+  <li>The majority of restaurant menus have options with an approximate cost for two people ranging from 0 to 1000.</li>
+  <li>The majority of restaurants, around 64.4%, offer online services as compared to offline services, which are offered by 35.6% of the restaurants.</li>
+  <li>With 89 outlets, Cafe Coffee Day has the highest number of locations among all the coffee shop chains.</li>
+  <li>The ratings for most restaurants tend to fall between the range of 3.0 to 4.5.</li>
+  <li>Approximately 85.4% of restaurants provide the option to book a table.</li>
 </ul>  
