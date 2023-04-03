@@ -29,7 +29,7 @@ In the analysis, we can use techniques from Data Analysis such as data cleaning,
   <li>Fried Rice, Ice Cream, Chicken Biryani, and Baby Corn are some of the most commonly found items on menus across different food establishments.</li>
   <li>Quick Bites is the most popular type of restaurant, followed by Casual Dining.</li>
   <li>Whitefield has the highest number of restaurants compared to other locations.</li>
-  <li>Majority of restaurant menus have an approximate cost for two people ranging from Rs.0 to Rs.1000.</li>
+  <li>Majority of restaurant menus have an approximate cost for two people ranging from Rs.100 to Rs.1000.</li>
   <li>Around 64.4%, offer online services as compared to offline services, which are offered by 35.6% of the restaurants.</li>
   <li>With 89 outlets, Cafe Coffee Day has the highest number of outlets among all the chains.</li>
   <li>The ratings for most restaurants tend to fall between the range of 3.0 to 4.5.</li>
