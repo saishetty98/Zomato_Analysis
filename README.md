@@ -35,5 +35,5 @@ In the analysis, we can use techniques from Data Analysis such as data cleaning,
   <li>The ratings for most restaurants tend to fall between the range of 3.0 to 4.5.</li>
   <li>Approximately 85.4% of restaurants provide the option to book a table.</li>
    <li>Onesta has received the highest number of votes among all the restaurants.</li>
-      <li>Le Cirque Signature - The Leela Palace Has The Highest Cost Of Rs. 6000 For Two People. <li/>
+   <li>Le Cirque Signature - The Leela Palace Has The Highest Cost Of Rs. 6000 For Two People. </li>
 </ul>  
